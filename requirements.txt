@@ -4,4 +4,3 @@ sympy
 matplotlib
 ipykernel
 ipympl
-jupyter-spaces
